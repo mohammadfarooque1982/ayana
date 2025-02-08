@@ -3,7 +3,7 @@ agent any
 stages (
 stage ('farooque') {
 steps {
-echo 'Heello mohammad farooque siddiqui'
+echo 'hello mohammad farooque'
 }
 }
 )
