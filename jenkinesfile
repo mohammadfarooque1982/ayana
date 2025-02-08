@@ -1,10 +1,10 @@
-pipeline (
+pipeline {
 agent any
-stages (
+stages {
 stage ('farooque') {
 steps {
 echo 'hello mohammad farooque'
 }
 }
-)
-)
+}
+}
