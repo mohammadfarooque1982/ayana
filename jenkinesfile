@@ -2,7 +2,7 @@ pipeline (
 agent any
 stages (
 stage ('farooque') {
-steps{
+steps {
 echo 'Heello mohammad farooque siddiqui'
 }
 }
