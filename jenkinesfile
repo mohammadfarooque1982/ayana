@@ -1,7 +1,7 @@
-pipeline(
+pipeline (
 agent any
-stages(
-stage ('farooque'){
+stages (
+stage ('farooque') {
 steps{
 echo 'Heello mohammad farooque siddiqui'
 }
